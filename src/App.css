@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: rgb(248, 187, 96);
+}
+
+.container .p{
+  text-align: center;
+}
+
+
+
+.navbar-dark {
+  float:none;
+  margin:0 auto;
+  display: block;
+  text-align: center;
+}
+
+
+
